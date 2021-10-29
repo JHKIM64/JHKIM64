@@ -13,3 +13,5 @@ Seoul National Univ.
 contact : terajunha@snu.ac.kr
 
 learning ML, earth chem-atmo modeling
+
+for school account
